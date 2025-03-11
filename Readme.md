@@ -1,6 +1,6 @@
 Ingenieria de software
 Seguridad en Redes y Sistemas de Software
-Documentación de los retos resultos
+Documentación de los retos resueltos
 
 - Héctor Brahem Gurrola Morales
 - brahemgurrola@gmail.com
@@ -28,4 +28,14 @@ General Skills:
 18. - repetitions
 19. - Big zip
 20. - First Find
+21. - Super SSH 
+22. - runme.py
+23. - Codebook
+24. - convertme.py
+25. - fixme1.py
+26. - fixme2.py
+27. - PW Crack 1
+28. - PW Crack 2
+29. - PW Crack 3
+30. - Serpentine
 
