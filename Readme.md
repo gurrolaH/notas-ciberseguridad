@@ -48,4 +48,10 @@ General Skills:
 38. - binary search
 39. - binhexa
 40. - ASCII Numbers
+41. - Insp3ct0r
+42. - where are the robots
+43. - logon
+44. -dont-use-client-side
+45. -picobrowser
+46. -Client-side-again
 

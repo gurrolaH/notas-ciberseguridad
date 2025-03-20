@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readme.md",
+                "file": "PicoCTF/Web/46-Client-side-again.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Readme"
+              "title": "46-Client-side-again"
             }
           }
         ]
@@ -170,9 +170,16 @@
   },
   "active": "ceeea2cbd4f23d13",
   "lastOpenFiles": [
-    "PicoCTF/PlantillaDocumentacion.md",
-    "PicoCTF/General Skills/Tarea1GeneralSkills/40-ASCII Numbers.md",
+    "PicoCTF/Web/45-picobrowser.md",
+    "PicoCTF/Web/44-dont-use-client-side.md",
+    "PicoCTF/Web/43-logon.md",
+    "PicoCTF/Web/42-WhereAreTheRoobots.md",
+    "PicoCTF/Web/41-Insp3ct0r.md",
+    "PicoCTF/Web/46-Client-side-again.md",
     "Readme.md",
+    "PicoCTF/PlantillaDocumentacion.md",
+    "PicoCTF/Web",
+    "PicoCTF/General Skills/Tarea1GeneralSkills/40-ASCII Numbers.md",
     "PicoCTF/General Skills/Tarea1GeneralSkills/39-binhexa.md",
     "PicoCTF/General Skills/Tarea1GeneralSkills/38-binary search.md",
     "PicoCTF/General Skills/Tarea1GeneralSkills/37-collaborative development.md",
@@ -191,12 +198,6 @@
     "PicoCTF/General Skills/Tarea1GeneralSkills",
     "PicoCTF/General Skills/General Skills 3/29-PW Crack 3.md",
     "PicoCTF/General Skills/General Skills 3/28-PW Crack 2.md",
-    "PicoCTF/General Skills/General Skills 3/27-PW Crack 1.md",
-    "PicoCTF/General Skills/General Skills 3/26-fixme2.py.md",
-    "PicoCTF/General Skills/General Skills 3/25-fixme1.py.md",
-    "PicoCTF/General Skills/General Skills 3/24-convertme.py.md",
-    "PicoCTF/General Skills/General Skills 3/23-Codebook.md",
-    "PicoCTF/General Skills/General Skills 3/22-runme.py.md",
     "PicoCTF/General Skills/General Skills 3/Untitled",
     "PicoCTF/General Skills/General Skills 3",
     "Pasted image 20250211211356.png",
