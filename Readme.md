@@ -57,3 +57,6 @@ General Skills:
 47. - GET aHEAD
 48. - Cookies
 49. - Scavenger Huntd
+50. - Irish-Name-Repo 1
+51. - More SQLi
+52. - JaWT Scratchpad

@@ -32,6 +32,11 @@ Así queda:
 #### Notas adicionales:
 Usamos Foxy Proxy
 
+
+
+Para resolverlo en PYTHON se usa:
+import request 
+
 #### Referencias:
 
 

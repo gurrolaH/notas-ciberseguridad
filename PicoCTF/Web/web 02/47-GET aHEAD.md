@@ -41,6 +41,20 @@ picoCTF{r3j3ct_th3_du4l1ty_2e5ba39f}
 #### Notas adicionales:
 Podemos usar Mozila para entender partes de web
 
+Gráficamente podemos: Inspeccionas o ver el código fuente.
+curl -I es equivalente a un método Head.
+
+Hay varios métodos HTTP Request:
+Get = curl - X GET www... :
+Post = curl -X POST www...: Como para mandar credenciales
+Put:
+Delete:
+Head = curl -I:
+Patch:
+
+
+
+Web Hacking Proxy: Es ponernos en medio e interceptar la comunicación, para poder hacer alteraciones.
 #### Referencias:
 
 
