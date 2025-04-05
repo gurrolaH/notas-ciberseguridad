@@ -1,3 +1,4 @@
+
 Ingenieria de software
 Seguridad en Redes y Sistemas de Software
 Documentación de los retos resueltos
@@ -60,3 +61,13 @@ General Skills:
 50. - Irish-Name-Repo 1
 51. - More SQLi
 52. - JaWT Scratchpad
+53. - Includes
+54. - Inspect HTML
+55. - IntroToBurp
+56. - Local Authority
+57. - Power Cookie
+58. - Roboto Sans
+59. - Secrets
+60. - SQLiLite
+61. - Unminify
+62. - WebDecode

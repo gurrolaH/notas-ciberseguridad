@@ -1,0 +1,1 @@
+- curl -I: Vemos los encabezados
