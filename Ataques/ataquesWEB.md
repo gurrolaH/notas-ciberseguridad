@@ -32,3 +32,21 @@ Se inyecta código desde el URL
 #### Dejar información en el Código fuente aunque este codificado:
 ![[Pasted image 20250405160937.png]] 
 - Se puede decodificar
+
+
+
+
+#### Dejar en el HTML las expresiones regulares que se usan.
+
+
+
+#### Ataque XXE para los XML:
+
+
+
+#### Ejeciutar código php:
+
+
+
+
+#### Hackeo de Cookies en frameworks (flask-unsign)

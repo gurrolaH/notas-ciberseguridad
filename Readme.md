@@ -71,3 +71,7 @@ General Skills:
 60. - SQLiLite
 61. - Unminify
 62. - WebDecode
+63. - MatchTheRegex
+64. - SOAP
+65. - Trickster
+66. - Most Cookies
