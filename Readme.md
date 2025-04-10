@@ -6,7 +6,7 @@ Documentación de los retos resueltos
 - Héctor Brahem Gurrola Morales
 - brahemgurrola@gmail.com
 
-###picoCTF
+### picoCTF
 
 General Skills:
 1. Lets Warm Up
@@ -75,3 +75,13 @@ General Skills:
 64. - SOAP
 65. - Trickster
 66. - Most Cookies
+67. - Glory of the Garden
+68. - So Meta
+69. - shark on wire 1
+70. - extensions
+71. - What Lies Within
+72. - m00nwalk
+73. - WhitePages
+74. - c0rrupt
+75. - like1000
+76. - shark on wire 2
