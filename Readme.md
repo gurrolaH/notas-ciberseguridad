@@ -85,3 +85,26 @@ General Skills:
 74. - c0rrupt
 75. - like1000
 76. - shark on wire 2
+77. - FANTASY CTF
+78. - HashingJobApp
+79. - Python Wrangling
+80. - Rust fixme 1
+81. - Rust fixme 2
+82. - Rust fixme 3
+83. - dont-you-love-banners
+84. - flag_shop
+85. - SansAlpha
+86. - Specialer
+87. - Bookmarklet
+88. - Cookie Monster Secret Recipe
+89. - head-dump
+90. - n0s4n1ty 1
+91. - SSTI1
+92. - findme
+93. - Java Code Analysis!?!
+94. - SQL Direct
+95. - SSTI2
+96. - WebSockFish
+
+--- 
+Examen P1:
