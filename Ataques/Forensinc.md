@@ -11,3 +11,16 @@
 
 
 #### Encriptación ASCII en puertos
+
+
+#### Esteganografía
+
+
+
+#### Metadatos
+
+
+#### PCAP, captura de paquete
+
+
+#### Magic Bytes

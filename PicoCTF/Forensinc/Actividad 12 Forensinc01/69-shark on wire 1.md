@@ -9,10 +9,13 @@ We found this [packet capture](https://jupiter.challenges.picoctf.org/static/48
 
 #### Solución:
 
-#### 1.
-
+#### 1. Usamos la herramienta Wireshark
+Usamos un archivo PCAP, es un archivo que contiene un captura de tráfico de red, tienen datos de diferentes puertos.
+![[Pasted image 20250505181952.png]]
 ````
-
+- Ubicamos el puerto que más tráfico tiene
+- Hacemos un seguimiento del stream
+- Ubicamos la flag
 `````
 
 
@@ -28,12 +31,12 @@ We found this [packet capture](https://jupiter.challenges.picoctf.org/static/48
 
 
 #### Pico:
-
+picoCTF{StaT31355_636f6e6e}
 
 #### Notas adicionales:
-
+- Los Streams son conjuntos de paquetes que están mezclados
 
 #### Referencias:
 
-
+https://www.youtube.com/watch?v=q8cM4sY0izw&list=PLDo9DMLZyP6kTZ8Td37-LdbAx4-yNfHBl&index=16
 
