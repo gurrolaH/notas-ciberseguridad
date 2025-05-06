@@ -105,6 +105,11 @@ General Skills:
 94. - SQL Direct
 95. - SSTI2
 96. - WebSockFish
+97. - WebNet0
+98. - Webnet1
+99. - Matryoshka doll
+100. - tunn3l_v1s10n
+101. - MacroHard WeakEdge
 
 --- 
 Examen P1:

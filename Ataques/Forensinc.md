@@ -24,3 +24,7 @@
 
 
 #### Magic Bytes
+
+
+
+#### Archivos comprimidos dentro de imágenes

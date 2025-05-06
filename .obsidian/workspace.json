@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readme.md",
+                "file": "PicoCTF/Forensinc/Actividad 14 - Forensic 03/101 - MacroHard WeakEdge.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Readme"
+              "title": "101 - MacroHard WeakEdge"
             }
           }
         ]
@@ -170,10 +170,25 @@
   },
   "active": "c6f2d0edfcf0c9f5",
   "lastOpenFiles": [
+    "Imagenes/Pasted image 20250506084103.png",
+    "PicoCTF/Forensinc/Actividad 14 - Forensic 03/100 - tunn3l_v1s10n.md",
+    "Imagenes/Pasted image 20250506080712.png",
+    "Imagenes/Pasted image 20250506080649.png",
+    "PicoCTF/Forensinc/Actividad 14 - Forensic 03/99 - Matryoshka doll.md",
+    "Herramientas/Forensinc/binwalk.md",
+    "Ataques/Forensinc.md",
+    "Imagenes/Pasted image 20250506073548.png",
+    "Readme.md",
+    "PicoCTF/Forensinc/Actividad 14 - Forensic 03/98- Webnet1.md",
+    "Imagenes/Pasted image 20250505233319.png",
+    "PicoCTF/Forensinc/Actividad 14 - Forensic 03/97- WebNet0.md",
+    "Imagenes/Pasted image 20250505231650.png",
+    "PicoCTF/Forensinc/Actividad 14 - Forensic 03/101 - MacroHard WeakEdge.md",
+    "PicoCTF/PlantillaDocumentacion.md",
+    "PicoCTF/Forensinc/Actividad 14 - Forensic 03",
     "PicoCTF/Forensinc/Actividad 12 Forensinc01/71-What Lies Within.md",
     "Imagenes/Pasted image 20250505190507.png",
     "Herramientas/Forensinc/ZSTEG.md",
-    "Ataques/Forensinc.md",
     "Imagenes/Pasted image 20250505185628.png",
     "PicoCTF/Forensinc/Actividad 12 Forensinc01/70-extensions.md",
     "Imagenes/Pasted image 20250505184120.png",
@@ -186,8 +201,6 @@
     "Herramientas/Forensinc/strings.md",
     "Imagenes/Pasted image 20250505151106.png",
     "PicoCTF/Forensinc/Actividad 12 Forensinc01/67-Glory of the Garden.md",
-    "Imagenes/Pasted image 20250505145541.png",
-    "Readme.md",
     "Examen Parcial 1/Web/10 - WebSockFish.md",
     "Examen Parcial 1/Web/09 - SSTI2.md",
     "Examen Parcial 1/Web/08 - SQL Direct.md",
@@ -195,13 +208,6 @@
     "Examen Parcial 1/Web/06 - findme.md",
     "Examen Parcial 1/Web/05 - SSTI1.md",
     "Examen Parcial 1/Web/04 - n0s4n1ty 1.md",
-    "Examen Parcial 1/Web/03 - head-dump.md",
-    "Examen Parcial 1/Web/02 - Cookie Monster.md",
-    "Examen Parcial 1/Web/01 - Bookmarklet.md",
-    "Examen Parcial 1/General Skills/10 - Specialer.md",
-    "Examen Parcial 1/General Skills/09 - SansAlpha.md",
-    "Examen Parcial 1/General Skills/08 - flag_shop.md",
-    "Examen Parcial 1/General Skills/07 - dont-you-love-banners.md",
     "Examen Parcial 1/Web",
     "Examen Parcial 1/General Skills",
     "Examen Parcial 1",
@@ -210,11 +216,6 @@
     "Examenes Parciales/Examen Parcial 1/General Skills",
     "Examenes Parciales/Examen Parcial 1",
     "Examenes Parciales",
-    "Examenes Parciales.zip",
-    "Imagenes/Pasted image 20250410004520.png",
-    "Imagenes/Pasted image 20250410004329.png",
-    "Imagenes/Pasted image 20250409235201.png",
-    "Imagenes/Pasted image 20250409234758.png",
     "Untitled.canvas"
   ]
 }
