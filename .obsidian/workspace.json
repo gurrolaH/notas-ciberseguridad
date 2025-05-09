@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9a3caa991ff48724",
+        "id": "b7dadc8088f75ca9",
         "type": "tabs",
         "children": [
           {
-            "id": "c6f2d0edfcf0c9f5",
+            "id": "76befca7f147b65d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Forensinc/Actividad 14 - Forensic 03/101 - MacroHard WeakEdge.md",
+                "file": "PicoCTF/Forensinc/Activity 15 - Forensic 04/107-Operation Oni.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "101 - MacroHard WeakEdge"
+              "title": "107-Operation Oni"
             }
           }
         ]
@@ -168,46 +168,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c6f2d0edfcf0c9f5",
+  "active": "76befca7f147b65d",
   "lastOpenFiles": [
-    "Imagenes/Pasted image 20250506084103.png",
+    "PicoCTF/Forensinc/Activity 15 - Forensic 04/106-Operation Orchid.md",
+    "PicoCTF/Forensinc/Activity 15 - Forensic 04/105-Sleuthkit Apprentice.md",
+    "PicoCTF/Forensinc/Activity 15 - Forensic 04/104-Sleuthkit Intro.md",
+    "PicoCTF/Forensinc/Activity 15 - Forensic 04/103-Disk, disk, sleuth!.md",
+    "PicoCTF/Forensinc/Activity 15 - Forensic 04/102-Milkslap.md",
+    "PicoCTF/Forensinc/Activity 15 - Forensic 04/107-Operation Oni.md",
+    "Imagenes/Pasted image 20250508170252.png",
+    "Readme.md",
+    "Herramientas/Forensinc/slouth kit.md",
+    "PicoCTF/PlantillaDocumentacion.md",
+    "Herramientas/Forensinc/Untitled.md",
+    "Herramientas/Forensic.md",
+    "Ataques/Forensinc.md",
+    "Imagenes/Pasted image 20250507234456.png",
+    "PicoCTF/Forensinc/Actividad 13 - Forensinc 02/76-shark on wire 2.md",
+    "PicoCTF/Forensinc/Activity 15 - Forensic 04",
+    "PicoCTF/Forensinc/Actividad 14 - Forensic 03/98- Webnet1.md",
+    "PicoCTF/Forensinc/Actividad 14 - Forensic 03/101 - MacroHard WeakEdge.md",
+    "PicoCTF/Forensinc/Actividad 14 - Forensic 03/97- WebNet0.md",
+    "PicoCTF/Forensinc/Actividad 14 - Forensic 03/99 - Matryoshka doll.md",
     "PicoCTF/Forensinc/Actividad 14 - Forensic 03/100 - tunn3l_v1s10n.md",
+    "Imagenes/Pasted image 20250506084103.png",
     "Imagenes/Pasted image 20250506080712.png",
     "Imagenes/Pasted image 20250506080649.png",
-    "PicoCTF/Forensinc/Actividad 14 - Forensic 03/99 - Matryoshka doll.md",
     "Herramientas/Forensinc/binwalk.md",
-    "Ataques/Forensinc.md",
     "Imagenes/Pasted image 20250506073548.png",
-    "Readme.md",
-    "PicoCTF/Forensinc/Actividad 14 - Forensic 03/98- Webnet1.md",
     "Imagenes/Pasted image 20250505233319.png",
-    "PicoCTF/Forensinc/Actividad 14 - Forensic 03/97- WebNet0.md",
     "Imagenes/Pasted image 20250505231650.png",
-    "PicoCTF/Forensinc/Actividad 14 - Forensic 03/101 - MacroHard WeakEdge.md",
-    "PicoCTF/PlantillaDocumentacion.md",
     "PicoCTF/Forensinc/Actividad 14 - Forensic 03",
     "PicoCTF/Forensinc/Actividad 12 Forensinc01/71-What Lies Within.md",
     "Imagenes/Pasted image 20250505190507.png",
     "Herramientas/Forensinc/ZSTEG.md",
     "Imagenes/Pasted image 20250505185628.png",
     "PicoCTF/Forensinc/Actividad 12 Forensinc01/70-extensions.md",
-    "Imagenes/Pasted image 20250505184120.png",
     "Herramientas/Forensinc/exiftool.md",
     "Herramientas/Forensinc/comando xxe , head.md",
     "Herramientas/Forensinc/Untitled",
     "PicoCTF/Forensinc/Actividad 12 Forensinc01/69-shark on wire 1.md",
-    "Imagenes/Pasted image 20250505181952.png",
-    "PicoCTF/Forensinc/Actividad 12 Forensinc01/68-So Meta.md",
-    "Herramientas/Forensinc/strings.md",
-    "Imagenes/Pasted image 20250505151106.png",
-    "PicoCTF/Forensinc/Actividad 12 Forensinc01/67-Glory of the Garden.md",
-    "Examen Parcial 1/Web/10 - WebSockFish.md",
-    "Examen Parcial 1/Web/09 - SSTI2.md",
-    "Examen Parcial 1/Web/08 - SQL Direct.md",
-    "Examen Parcial 1/Web/07 - Java Code Analysis.md",
-    "Examen Parcial 1/Web/06 - findme.md",
-    "Examen Parcial 1/Web/05 - SSTI1.md",
-    "Examen Parcial 1/Web/04 - n0s4n1ty 1.md",
     "Examen Parcial 1/Web",
     "Examen Parcial 1/General Skills",
     "Examen Parcial 1",
@@ -215,7 +215,6 @@
     "Examenes Parciales/Examen Parcial 1/Web",
     "Examenes Parciales/Examen Parcial 1/General Skills",
     "Examenes Parciales/Examen Parcial 1",
-    "Examenes Parciales",
     "Untitled.canvas"
   ]
 }

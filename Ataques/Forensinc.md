@@ -28,3 +28,8 @@
 
 
 #### Archivos comprimidos dentro de imágenes
+
+
+
+
+#### Ocular cosas en imágenes

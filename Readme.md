@@ -110,6 +110,12 @@ General Skills:
 99. - Matryoshka doll
 100. - tunn3l_v1s10n
 101. - MacroHard WeakEdge
+102. - Milkslap
+103. - Disk, disk, sleuth!
+104. - Sleuthkit Intro
+105. - Sleuthkit Apprentice
+106. - Operation Orchid
+107. - Operation Oni
 
 --- 
 Examen P1:
