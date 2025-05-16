@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Criptografia/Actividad 16 - Crypto parte 1/125-interencdec.md",
+                "file": "PicoCTF/Forensinc/Tarea 03 Forensic/116-Ph4nt0m 1ntrud3r.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "125-interencdec"
+              "title": "116-Ph4nt0m 1ntrud3r"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.5026054382324
+    "width": 264.5024719238281
   },
   "right": {
     "id": "818b026f63992c51",
@@ -170,8 +170,20 @@
   },
   "active": "ee4d151de8a0cb12",
   "lastOpenFiles": [
-    "PicoCTF/Criptografia/Actividad 16 - Crypto parte 1/124-waves over lambda.md",
+    "PicoCTF/Forensinc/Tarea 03 Forensic/117-flags are stepic.md",
+    "PicoCTF/Forensinc/Tarea 03 Forensic/116-Ph4nt0m 1ntrud3r.md",
+    "PicoCTF/Forensinc/Tarea 03 Forensic/115-RED.md",
+    "PicoCTF/Forensinc/Tarea 03 Forensic/114-Secret of the Polyglot.md",
+    "PicoCTF/Forensinc/Tarea 03 Forensic/113-CanYouSee.md",
+    "PicoCTF/Forensinc/Tarea 03 Forensic/112-Scan Surprise.md",
+    "PicoCTF/Forensinc/Tarea 03 Forensic/111-hideme.md",
+    "PicoCTF/Forensinc/Tarea 03 Forensic/110-Redaction gone wrong.md",
+    "PicoCTF/Forensinc/Tarea 03 Forensic/109-St3g0.md",
+    "PicoCTF/Forensinc/Tarea 03 Forensic/108-information.md",
+    "Imagenes/Pasted image 20250515161149.png",
+    "Imagenes/Pasted image 20250515155901.png",
     "PicoCTF/Criptografia/Actividad 16 - Crypto parte 1/125-interencdec.md",
+    "PicoCTF/Criptografia/Actividad 16 - Crypto parte 1/124-waves over lambda.md",
     "PicoCTF/Criptografia/Actividad 16 - Crypto parte 1/123-Tapping.md",
     "PicoCTF/Criptografia/Actividad 16 - Crypto parte 1/122-la cifra de.md",
     "PicoCTF/Criptografia/Actividad 16 - Crypto parte 1/121-Easy 1.md",
@@ -180,26 +192,15 @@
     "PicoCTF/Criptografia/Actividad 16 - Crypto parte 1/118-The numbers.md",
     "Readme.md",
     "PicoCTF/PlantillaDocumentacion.md",
-    "PicoCTF/Forensinc/Tarea 03 Forensic/109-St3g0.md",
-    "PicoCTF/Forensinc/Tarea 03 Forensic/110-Redaction gone wrong.md",
     "PicoCTF/Criptografia/Actividad 16 - Crypto parte 1",
-    "PicoCTF/Forensinc/Tarea 03 Forensic/108-information.md",
-    "PicoCTF/Forensinc/Tarea 03 Forensic/112-Scan Surprise.md",
     "PicoCTF/Forensinc/Activity 15 - Forensic 04/107-Operation Oni.md",
     "PicoCTF/Forensinc/Activity 15 - Forensic 04/106-Operation Orchid.md",
     "PicoCTF/Forensinc/Activity 15 - Forensic 04/103-Disk, disk, sleuth!.md",
     "PicoCTF/Forensinc/Activity 15 - Forensic 04/102-Milkslap.md",
     "PicoCTF/Criptografia",
-    "PicoCTF/Forensinc/Tarea 03 Forensic/111-hideme.md",
     "Herramientas/Forensinc/ZSTEG.md",
-    "PicoCTF/Forensinc/Tarea 03 Forensic/117-flags are stepic.md",
-    "PicoCTF/Forensinc/Tarea 03 Forensic/116-Ph4nt0m 1ntrud3r.md",
-    "PicoCTF/Forensinc/Tarea 03 Forensic/115-RED.md",
-    "PicoCTF/Forensinc/Tarea 03 Forensic/114-Secret of the Polyglot.md",
-    "PicoCTF/Forensinc/Tarea 03 Forensic/113-CanYouSee.md",
     "PicoCTF/Forensinc/Tarea 03/Untitled",
     "PicoCTF/Forensinc/Tarea 03 Forensic",
-    "PicoCTF/Forensinc/Activity 15 - Forensic 04/105-Sleuthkit Apprentice.md",
     "Imagenes/Pasted image 20250508170252.png",
     "Imagenes/Pasted image 20250507234456.png",
     "PicoCTF/Forensinc/Activity 15 - Forensic 04",
@@ -210,8 +211,6 @@
     "Imagenes/Pasted image 20250505233319.png",
     "Imagenes/Pasted image 20250505231650.png",
     "PicoCTF/Forensinc/Actividad 14 - Forensic 03",
-    "Imagenes/Pasted image 20250505190507.png",
-    "Imagenes/Pasted image 20250505185628.png",
     "Herramientas/Forensinc/Untitled",
     "Examen Parcial 1/Web",
     "Examen Parcial 1/General Skills",

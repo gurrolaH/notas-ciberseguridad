@@ -10,12 +10,14 @@ Additional details will be available after launching your challenge instance.
 
 #### Solución:
 
-#### 1.
+#### 1. Análisis web del código, y step
 
 ````
-
+- Analizamos el código html, descubrimos que una pandera era una imagen de bandera que se puede guardar.
+- La guardamos, para luego analizarla
+- Le hacemos un:
+		- stepic -d -i upz.png
 `````
-
 
 
 
@@ -29,12 +31,10 @@ Additional details will be available after launching your challenge instance.
 
 
 #### Pico:
-
+picocTF{f14g_h45_f14g00518d32}
 
 #### Notas adicionales:
 
 
 #### Referencias:
-
-
-
+https://www.youtube.com/watch?v=a5ZbkGRuQM8

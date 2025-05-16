@@ -17,7 +17,12 @@ Additional details will be available after launching your challenge instance.
 #### 1.
 
 ````
-
+- Descargamos el zip
+- Descomprimimos el Zip
+- Navegamos en los directorios
+- Encontramos una imágen con un código QR
+- Usamos un lector de QR online
+- Extrajimos la flag
 `````
 
 
@@ -33,12 +38,12 @@ Additional details will be available after launching your challenge instance.
 
 
 #### Pico:
-
+picocTF{p33k_@_b00_7843f77c}
 
 #### Notas adicionales:
 
 
 #### Referencias:
-
+Código qr online
 
 

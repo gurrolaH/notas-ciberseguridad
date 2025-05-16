@@ -9,10 +9,22 @@ A digital ghost has breached my defenses, and my sensitive data has been stolen!
 
 #### Solución:
 
-#### 1.
+#### 1. Usamo WireShark
 
 ````
+wget https://challenge-files.picoctf.net/c_verbal_slee
+NetworkTraffic.pcap
+cler
+clear
+ls
+wireshark myNetworkTraffic.pcap
 
+Dentro de Wireshark:
+- Filtramos de longitud 4 y 12
+- Filtramos por tiempo
+- Mostramos los Bytes de los paquetes
+- Que lo decodifique de base 64
+- Vamos mostrando los paquetes y formando la flag
 `````
 
 
@@ -28,12 +40,11 @@ A digital ghost has breached my defenses, and my sensitive data has been stolen!
 
 
 #### Pico:
-
+picoCTF{1t_w4snt_th4t_34sy_tbh_4r_959f50d3}
 
 #### Notas adicionales:
 
 
 #### Referencias:
-
-
+https://www.youtube.com/watch?v=_YKC5Smffeg
 

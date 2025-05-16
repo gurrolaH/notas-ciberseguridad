@@ -8,10 +8,17 @@ The Network Operations Center (NOC) of your local institution picked up a suspic
 
 #### Solución:
 
-#### 1.
+#### 1. Usamos la herramienta convert, para pasar de pdf a png
 
 ````
-
+wget https://artifacts.picoctf.net/c_titan/7/flag2of2-final.pdf
+ls
+clear    Search by Name
+ls
+open flag2of2-final.pdf
+convert flag2of2-final.pdf flag2of2-final.png
+ls
+open flag2of2-final.png
 `````
 
 
@@ -27,12 +34,11 @@ The Network Operations Center (NOC) of your local institution picked up a suspic
 
 
 #### Pico:
-
+picocTF{f1u3n7_in_pn9_6_pdf_53b741d6}
 
 #### Notas adicionales:
 
 
 #### Referencias:
-
-
+https://www.youtube.com/watch?v=hVDNbN1AXZw
 

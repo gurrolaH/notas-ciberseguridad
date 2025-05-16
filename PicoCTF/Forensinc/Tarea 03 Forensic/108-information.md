@@ -31,7 +31,7 @@ exiftool cat.jpg
 
 
 #### Pico:
-picoCTF[the_m3tadata_1s_modified]
+picoCTF{the_m3tadata_1s_modified}
 
 
 #### Notas adicionales:
