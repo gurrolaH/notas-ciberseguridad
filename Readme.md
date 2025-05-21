@@ -132,4 +132,5 @@ General Skills:
 122. - la cifra de
 123. Tapping
 124. - waves over lambda
-125. interencdec
+125. - interencdec
+126. - rsa pop quiz
