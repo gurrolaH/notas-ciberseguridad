@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Criptografia/Actividad 17 - Retos Crypto 2/126 - rsa pop quiz.md",
+                "file": "PicoCTF/Criptografia/Actividad 18 - Retos Crypto 3/130-b00tl3gRSA3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "126 - rsa pop quiz"
+              "title": "130-b00tl3gRSA3"
             }
           }
         ],
@@ -185,10 +185,17 @@
   },
   "active": "a883e4465cb62ef6",
   "lastOpenFiles": [
+    "PicoCTF/Criptografia/Actividad 18 - Retos Crypto 3/129-b00tl3gRSA2.md",
+    "PicoCTF/Criptografia/Actividad 18 - Retos Crypto 3/130-b00tl3gRSA3.md",
+    "PicoCTF/Criptografia/Actividad 18 - Retos Crypto 3/128-Mind your Ps and Qs.md",
+    "Imagenes/Pasted image 20250521234420.png",
+    "PicoCTF/Criptografia/Actividad 18 - Retos Crypto 3/127-Mini RSA.md",
+    "PicoCTF/PlantillaDocumentacion.md",
     "Readme.md",
     "PicoCTF/Criptografia/Actividad 17 - Retos Crypto 2/126 - rsa pop quiz.md",
+    "PicoCTF/Criptografia/Actividad 18 - Retos Crypto 3",
+    "PicoCTF/Criptografia/Untitled.md",
     "PicoCTF/Forensinc/Tarea 03 Forensic/117-flags are stepic.md",
-    "PicoCTF/PlantillaDocumentacion.md",
     "PicoCTF/Criptografia/Actividad 17 - Retos Crypto 2",
     "PicoCTF/Forensinc/Tarea 03 Forensic/116-Ph4nt0m 1ntrud3r.md",
     "PicoCTF/Forensinc/Tarea 03 Forensic/115-RED.md",
@@ -208,14 +215,8 @@
     "PicoCTF/Criptografia/Actividad 16 - Crypto parte 1/121-Easy 1.md",
     "PicoCTF/Criptografia/Actividad 16 - Crypto parte 1/120-Cesar.md",
     "PicoCTF/Criptografia/Actividad 16 - Crypto parte 1/119-13.md",
-    "PicoCTF/Criptografia/Actividad 16 - Crypto parte 1/118-The numbers.md",
     "PicoCTF/Criptografia/Actividad 16 - Crypto parte 1",
-    "PicoCTF/Forensinc/Activity 15 - Forensic 04/107-Operation Oni.md",
-    "PicoCTF/Forensinc/Activity 15 - Forensic 04/106-Operation Orchid.md",
-    "PicoCTF/Forensinc/Activity 15 - Forensic 04/103-Disk, disk, sleuth!.md",
-    "PicoCTF/Forensinc/Activity 15 - Forensic 04/102-Milkslap.md",
     "PicoCTF/Criptografia",
-    "Herramientas/Forensinc/ZSTEG.md",
     "PicoCTF/Forensinc/Tarea 03/Untitled",
     "PicoCTF/Forensinc/Tarea 03 Forensic",
     "Imagenes/Pasted image 20250508170252.png",
@@ -226,11 +227,9 @@
     "Imagenes/Pasted image 20250506080649.png",
     "Imagenes/Pasted image 20250506073548.png",
     "Imagenes/Pasted image 20250505233319.png",
-    "Imagenes/Pasted image 20250505231650.png",
     "PicoCTF/Forensinc/Actividad 14 - Forensic 03",
     "Herramientas/Forensinc/Untitled",
     "Examen Parcial 1/Web",
-    "Examen Parcial 1/General Skills",
     "Untitled.canvas"
   ]
 }

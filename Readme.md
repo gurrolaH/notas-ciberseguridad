@@ -134,3 +134,7 @@ General Skills:
 124. - waves over lambda
 125. - interencdec
 126. - rsa pop quiz
+127. - Mini RSA
+128. - Mind your Ps and Qs
+129. - b00tl3gRSA2
+130. - b00tl3gRSA3
